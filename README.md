@@ -39,9 +39,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **desenv
 ## 📚 Atualmente estudando
 
 - ☕ **Desenvolvimento de APIs Web com Java (Spring Boot)**
+  
   Atualmente estou estudando Java, com foco em programação orientada a objetos. Tenho me aprofundado nos conceitos fundamentais como herança, polimorfismo, encapsulamento e abstração, buscando aplicar esses princípios em projetos práticos. Também estou iniciando no desenvolvimento de APIs RESTful utilizando o framework Spring Boot.
   
 - 🐍 **Análise de Dados com Python**
+  
   Em Python, estou focado na análise de dados, estudando e praticando com as bibliotecas Pandas e NumPy. Tenho aprendido a realizar tarefas como manipulação, limpeza e transformação de dados, além de preparar conjuntos de dados para visualizações e análises mais avançadas.
 
 
