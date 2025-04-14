@@ -48,7 +48,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **desenv
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcioluca&show_icons=true&theme=dark" />
