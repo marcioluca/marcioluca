@@ -52,7 +52,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **desenv
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcioluca&show_icons=true&theme=dark" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcioluca&layout=compact&theme=dark" />
+  <img height="150em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=marcioluca&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=marcioluca&layout=compact&theme=dark)" />
 
 </p>
 
