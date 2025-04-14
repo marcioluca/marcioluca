@@ -64,4 +64,4 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **desenv
 
 ---
 
-⭐ Se gostou de algum projeto, deixe uma estrela e fique à vontade para contribuir!
+⭐ Se gostou de algum projeto, deixe um feedback e fique à vontade para contribuir!
