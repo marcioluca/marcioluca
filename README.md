@@ -16,12 +16,14 @@
   <img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/HTML5-FF6D3B?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-2F8FFF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=amazon-dynamodb&logoColor=FF9900" />
 </div>
 
 ### 🗃️ Bancos de Dados
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px;">
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=amazon-dynamodb&logoColor=FF9900" />
+  
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=#00FF88" />
 </div>
 
 ### 🛠️ Frameworks & Bibliotecas
