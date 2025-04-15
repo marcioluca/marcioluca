@@ -17,14 +17,12 @@
   <img src="https://img.shields.io/badge/HTML5-FF6D3B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-2F8FFF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=amazon-dynamodb&logoColor=FF9900" alt="SQL" />
-  
-  ## 🗃️ Bancos de Dados
+</div>
+ ## 🗃️ Bancos de Dados
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px;">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
-</div>
-
 
 
 ## 🛠️ Frameworks & Bibliotecas
@@ -40,6 +38,7 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000?style=for-the-badge&logo=intellij-idea&logoColor=FF0078" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Notion-FFFAF0?style=for-the-badge&logo=notion&logoColor=black" alt="Notion" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Trello-00B289?style=for-the-badge&logo=trello&logoColor=white" alt= "Trello" />
 </div>
 
 ---
