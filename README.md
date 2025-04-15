@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
 <!-- Frameworks e ferramentas -->
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -53,13 +54,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **desenv
 
 ## 🏆 Projetos Destacados
 
-[🔗 **Sistema de Gestão Escolar**](https://github.com/marcioluca/projeto-escola)  
-*Java • Spring Boot • MySQL*  
-API REST para matrículas, notas e relatórios educacionais.
 
-[🔗 **Análise de Dados - Airbnb**](https://github.com/marcioluca/airbnb-analysis)  
-*Python • Pandas • Matplotlib*  
-Limpeza e visualização de dados de hospedagens com insights estratégicos.
 
 ---
 
@@ -89,5 +84,5 @@ Limpeza e visualização de dados de hospedagens com insights estratégicos.
 [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@provedor.com)
 
 <p align="center">
-  <i>"O sucesso é a soma de pequenos esforços repetidos dia após dia." — Robert Collier</i> ✨
+  <i>🚀 "Enquanto o Java garante que tudo funcione, o Python assegura que tudo faça sentido."</i>
 </p>
