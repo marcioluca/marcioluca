@@ -9,31 +9,35 @@
 
 ## 🚀 Minhas Stacks
 
-<p align="left">
+### 💻 Linguagens
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px;">
+  <img src="https://img.shields.io/badge/Java-FF9900?style=for-the-badge&logo=openjdk&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE873" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/HTML5-FF6D3B?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-2F8FFF?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
-### 💻 **Linguagens** 
-<img src="https://img.shields.io/badge/Java-FF9900?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE873" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-FF6D3B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-2F8FFF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+### 🗃️ Bancos de Dados
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px;">
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=amazon-dynamodb&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
-### 🗃️ **Bancos de Dados**
-<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=amazon-dynamodb&logoColor=FF9900" alt="SQL" />
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+### 🛠️ Frameworks & Bibliotecas
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px;">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=45BA76" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=8CFFE6" />
+</div>
 
-### 🛠️ **Frameworks & Bibliotecas**
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=45BA76" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=8CFFE6" alt="NumPy" />
-
-### 🔧 **Ferramentas**
-<img src="https://img.shields.io/badge/Git-FF422D?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000?style=for-the-badge&logo=intellij-idea&logoColor=FF0078" alt="IntelliJ" />
-<img src="https://img.shields.io/badge/Notion-FFFAF0?style=for-the-badge&logo=notion&logoColor=black" alt="Notion" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-
-</p>
+### 🔧 Ferramentas
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/Git-FF422D?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000?style=for-the-badge&logo=intellij-idea&logoColor=FF0078" />
+  <img src="https://img.shields.io/badge/Notion-FFFAF0?style=for-the-badge&logo=notion&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
 
 ---
 
