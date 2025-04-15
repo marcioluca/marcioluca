@@ -93,7 +93,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **desenv
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-lucas-dev/)
 [![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marcioluca.github.io/portifolio-alura/)
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@provedor.com)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmrc2014@gmail.com)
 
 <p align="center">
   <i>🚀 "Enquanto o Java garante que tudo funcione, o Python assegura que tudo faça sentido."</i>
