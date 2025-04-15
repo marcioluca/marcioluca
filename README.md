@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/badge/CSS3-2F8FFF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=amazon-dynamodb&logoColor=FF9900" alt="SQL" />
 </div>
- ## 🗃️ Bancos de Dados
+
+## 🗃️ Bancos de Dados
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px;">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
