@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Márcio Lucas👨‍💻</h1>
+<h1 align="center">Olá! Eu sou o Márcio 👨‍💻</h1>
 
 <p align="center">
   <i>Desenvolvedor em formação focado em Java Back-end e Ciência de Dados</i><br>
