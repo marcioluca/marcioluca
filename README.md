@@ -64,8 +64,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **desenv
 
 ---
 
-## 🏆 Projetos Destacados
-
 
 
 ---
