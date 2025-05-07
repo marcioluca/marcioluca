@@ -46,7 +46,7 @@
 
 ## 🎯 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **desenvolvimento Java Back-end** e **Ciência de Dados**. 
+Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **desenvolvimento Java Back-end** e **Ciência de Dados com Python**. 
 
 - 🔍 **Curioso por natureza**: Autodidata e sempre explorando novas tecnologias
 - 🛠️ **Resolver problemas**: Apaixonado por transformar desafios em soluções eficientes com código
